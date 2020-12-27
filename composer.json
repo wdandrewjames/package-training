@@ -1,16 +1,16 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "wdandrewjames/converter",
+    "description": "basic converter",
     "keywords": [
-        ":vendor_name",
-        ":package_name"
+        "wdandrewjames",
+        "converter"
     ],
-    "homepage": "https://github.com/:vendor_name/:package_name",
+    "homepage": "https://github.com/wdandrewjames/converter",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "Andrew Rushton",
+            "email": "aj.rushton@icloud.com",
             "homepage": "https://spatie.be",
             "role": "Developer"
         }
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Skeleton\\": "src"
+            "Wdandrewjames\\Converter\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Skeleton\\Tests\\": "tests"
+            "Wdandrewjames\\Converter\\Tests\\": "tests"
         }
     },
     "scripts": {
