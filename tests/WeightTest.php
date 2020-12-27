@@ -2,8 +2,8 @@
 
 namespace Wdandrewjames\Converter\Tests;
 
-use Wdandrewjames\Converter\Weight;
 use PHPUnit\Framework\TestCase;
+use Wdandrewjames\Converter\Weight;
 
 class ExampleTest extends TestCase
 {
